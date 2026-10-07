@@ -1,0 +1,11 @@
+*.o
+*.gch
+a.out
+cat
+mkdir
+pwd
+rm
+wc
+whoami
+my_*
+.DS_Store
